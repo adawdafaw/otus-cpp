@@ -1,1 +1,1 @@
-# otus-cpp
+this repository contains otus homework
